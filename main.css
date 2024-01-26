@@ -1,0 +1,49 @@
+nav {
+    color: brown;
+    display: flex; 
+    justify-content: space-around;
+}
+
+nav a {
+    color: #1A2902;
+    text-decoration: none;
+    font-size: 20px;
+    background-color:#AEC670;
+    padding: 8px;
+    border-radius: 7px;
+
+}
+
+h1{
+    text-align: center;
+}
+
+
+
+.gallery{
+      display: flex;
+      height: 200px;
+
+    justify-content: center;
+}
+
+.ded {
+    background-color: #344C11;
+    padding: 15px;
+    border-radius: 15px;
+    color: #AEC09A;
+}
+
+.gallery{
+   display: flex;
+    height: 200px;
+    justify-content: center;
+
+}
+
+.gallery{
+   display: flex;
+    height: 200px;
+    justify-content: center;  
+}
+    
